@@ -14,15 +14,6 @@
 
 <h3 align="left">👨🏻‍🎓 About Me</h3>
 
-<h4 align='center'>
-A pre-final year undergrad at JUIT-Solan majoring in CSE, passionate about front-end development, specialized in machine learning and research projects. Love staying up-to-date with the latest trends and frameworks like React.js 🌟🚀.
-</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit01-10&label=Profile%20views&color=0e75b6&style=flat" alt="mohit01-10" /> </p>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </p>
-
 ###
 
 <h3 align='center'>
@@ -32,6 +23,13 @@ A pre-final year undergrad at JUIT-Solan majoring in CSE, passionate about front
 ###
 
 <p align="left">- 🔭 I’m working on Machine Learning Research<br>- 📚 I'm currently learning full stack<br>- ⚡ In my free time I plan what to do next and watch movies(i'm good in multitasking 😁</p>
+
+###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit01-10&label=Profile%20views&color=0e75b6&style=flat" alt="mohit01-10" /> </p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </p>
 
 ###
 
