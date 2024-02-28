@@ -65,15 +65,13 @@
 
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
+## ‍🔥   My Stats :
 
 <div align="left">
   
   ![Mohit GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit01-10&theme=maroongold&show_icons=true)
 </div>
 
-## Most Used Languages
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit01-10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="200" alt="languages graph"  />
