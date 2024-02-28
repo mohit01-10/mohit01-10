@@ -3,8 +3,9 @@
   Hi there <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Mohit
 </h1>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="https://www.linkedin.com/in/in-mohit/"/>
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohit1.001)
+  <a href = "https://www.linkedin.com/in/in-mohit/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="https://www.linkedin.com/in/in-mohit/"/></a>
+ <a href ="https://www.instagram.com/mohit1.001" ><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" /></a>
+
 </div>
 
 <p align='center' style='margin: 5px;'>
