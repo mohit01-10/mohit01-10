@@ -1,28 +1,31 @@
 
-###
-
+<h1 align='center'>
+  Hi there <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Mohit
+</h1>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="https://www.linkedin.com/in/in-mohit/"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="https://www.linkedin.com/in/in-mohit/"/>
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohit1.001)
 </div>
 
+<p align='center' style='margin: 5px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=350&height=70&lines=Welcome+to+my+GitHub+Profile" alt="Welcome to my GitHub Profile." />
+</p>
+
+<h3 align="left">👨🏻‍🎓 About Me</h3>
+
+<h3 align='center'>
+A pre-final year undergrad at JUIT-Solan majoring in CSE, passionate about front-end development, specialized in machine learning and research projects. Love staying up-to-date with the latest trends and frameworks like React.js 🌟🚀.
+</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit01-10&label=Profile%20views&color=0e75b6&style=flat" alt="mohit01-10" /> </p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </p>
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
-
-###
-
-<h1 align="center">Hi 👋, I'm Mohit Pal</h1>
-
-###
-<p align='center' style='margin: 5px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=350&height=70&lines=Welcome+to+my+GitHub+Profile" alt="Welcome to my GitHub Profile." />
-</p>
-
-###
-
-<h3 align="left">👨🏻‍🎓 About Me</h3>
 
 ###
 
