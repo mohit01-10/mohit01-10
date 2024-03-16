@@ -37,24 +37,35 @@
 ###
 
 ## ⚙ Languages and Tools:
-[![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=A8B9CC&color=007ACC)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&color=00008B)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-20232A?style=for-the-badge&logo=r&logoColor=276DC3)](https://www.r-project.org/)
-[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Particle.js](https://img.shields.io/badge/Particle.js-20232A?style=for-the-badge&logo=particle&logoColor=61DAFB)](https://example.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=FFFF00)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-20232A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)](https://scikit-learn.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-20232A?style=for-the-badge&logo=opencv&logoColor=5C3EE8)](https://opencv.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](https://www.tensorflow.org/)
-[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![github pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/)
-[![visualstudio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+<p align="center">
+<img src="https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00008B"/>  
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=white&color=5C2D91"/>
+<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white&color=5C2D91"/>   
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=black&color=FFFF00"/>  
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>  
+<img src="https://img.shields.io/badge/React-%2300f?style=for-the-badge&logo=react&logoColor=white"/>  
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/scikit--learn-0078D4?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>  
+<img src="https://img.shields.io/badge/OpenCV-20232A?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>  
+<img src="https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>  
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>  
+</p>
 
 ###
 
@@ -63,7 +74,28 @@
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/simplecoder_10/)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/211484_Mohit)
 
+``` cpp
+using namespace std;
 
+class Mohit {
+private:
+    string Moto = "Coding my world, One line at a time!";
+
+    vector<string> Programming_Skills = { "C", "C++", "Python", "DSA", "ML" };
+
+    vector<string> WebTech/Frameworks = { "HTML/CSS", "JavaScript", "Reactjs", "Django", "Bootstrap"};
+
+public:
+    Mohit(string major) {
+        major = "COMPUTER SCIENCE";
+    }
+
+    string GetDegree() {
+        return "B.Tech in Computer Science Engineering";
+    }
+
+};
+```
 ###
 ## ‍🔥   My Stats :
 
