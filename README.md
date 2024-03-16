@@ -36,7 +36,7 @@
 
 ###
 
-## ⚙ Languages and Tools:
+## ⚙ TechStack:
 <p align="center">
 <img src="https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00008B"/>  
 </p>
@@ -59,12 +59,12 @@
 <img src="https://img.shields.io/badge/React-%2300f?style=for-the-badge&logo=react&logoColor=white"/>  
 </p>
 
-<p align="center">
+<p align="center">...
 <img src="https://img.shields.io/badge/scikit--learn-0078D4?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>  
 <img src="https://img.shields.io/badge/OpenCV-20232A?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>  
 <img src="https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>  
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>  
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>...
 </p>
 
 ###
