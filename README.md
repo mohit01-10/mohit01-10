@@ -98,15 +98,11 @@ public:
 ```
 ###
 ## ‍🔥   My Stats :
+![Leetcode Stats](https://leetcard.jacoblin.cool/mohitmccall?theme=dark)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit01-10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=chartreuse-dark&hide_border=false&order=2" height="200" alt="languages graph"  />
 
 <div align="left">
   
-  ![Mohit GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit01-10&theme=maroongold&show_icons=true)
-</div>
-
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit01-10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=chartreuse-dark&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=mohit01-10&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
