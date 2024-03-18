@@ -38,7 +38,7 @@
 
 ## ⚙ TechStack:
 <p align="center">
-<img src="https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00008B"/>  
+<img src="https://img.shields.io/badge/C++-%23239120?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
 </p>
 
 <p align="center">
