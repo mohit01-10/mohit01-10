@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on Machine Learning Research<br>- 📚 I'm currently learning full stack<br>- ⚡ In my free time I plan what to do next and watch movies(i'm good in multitasking) 😁</p>
+<p align="left">- 🔭 I’m working on Machine Learning Research<br>- 📚 I'm currently learning devops<br>- ⚡ I'm looking for full-time job opportunity</p>
 
 ###
 
