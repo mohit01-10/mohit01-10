@@ -20,7 +20,7 @@
 ###
 
 <h3 align='center'>
- A pre-final year undergrad at JUIT-Solan majoring in CSE, passionate about front-end development, specialized in machine learning and research projects. Love staying up-to-date with the latest trends and frameworks like React.js 🌟🚀.
+ I am a Final year undergrad at JUIT-Solan majoring in CSE, passionate about front-end development, specialized in machine learning and research projects. Love staying up-to-date with the latest trends and frameworks like React.js 🌟🚀.
 </h3>
 
 ###
