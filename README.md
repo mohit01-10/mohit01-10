@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on Machine Learning Research<br>- 📚 I'm currently learning devops<br>- ⚡ I'm looking for full-time job opportunity</p>
+<p align="left">- 🔭 I’m working on GenAI and Automation using GenAI<br>- 📚 I'm currently learning advanced AI modules<br>- ⚡ I'm looking for full-time job opportunity</p>
 
 ###
 
