@@ -32,7 +32,7 @@
 
 ###
 
-## 👨About Me
+## About Me
 - 🎯 Engineer & Researcher having cumulative experience of >1 years with agentic systems, automation pipelines, machine learning and intelligent backends systems.
   
 - 📚 Co-author of research published with Springer, Wiley-Scrivener, and Computational Intelligence, covering topics in federated learning, fuzzy logic, and ensemble ML for healthcare AI.
