@@ -4,8 +4,6 @@
 </h1>
 <div align="center">
   <a href = "https://www.linkedin.com/in/in-mohit/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="https://www.linkedin.com/in/in-mohit/"/></a>
-<a href="https://www.instagram.com/mohit1.001">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
 </a>
 
 
