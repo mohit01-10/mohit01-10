@@ -24,12 +24,13 @@
 </h3>
 
 ###
-### What I work on
+#### What I work on
 
-- 🧠 AI Agents: single-agent, multi-agent, Google ADK-agents
-- 🔧 Automation workflows: how to structure agents, integrate APIs, third-part LLMs, SQL/NoSQL dbs, handle tools, logs, eval, planning
+- 🧠 AI Agents: single-agent, multi-agent, Google ADK-agents, CrewAI, LangGraph, N8N
+- 🔧 Automation workflows: how to structure agents, integrate APIs, SQL/NoSQL dbs, handle tools, logs, eval, planning
 - 🗂️ RAG setups: simple chains, agentic RAG, hybrid RAG search
-- 🗂️ Chatbots: document based, knowledge base, Dialogflow-CX
+- 💬 Chatbots: document-based bots, knowledge assistants, Dialogflow-CX
+- ⚙️ Backend Development – Java/Spring Boot APIs, caching, microservices, AWS/GCP
 
 ###
 
