@@ -16,7 +16,7 @@
 ###
 
 <h3 align='left'>
- Engineer, interested in building softwares, platforms, anything that does something, human psychology and working with great people who share same brain cells.
+ An Engineer, interested in building softwares, platforms, anything that does something, human psychology and working with great people who share same brain cells.
 </h3>
 
 ###
