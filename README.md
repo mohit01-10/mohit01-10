@@ -15,17 +15,21 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=350&height=70&lines=Welcome+to+my+GitHub+Profile" alt="Welcome to my GitHub Profile." />
 </p>
 
-<h3 align="left">👨🏻‍🎓 About Me</h3>
+## 👨🏻‍🎓 About Me
 
 ###
 
-<h3 align='center'>
+<h3 align='left'>
  Engineer, interested in building softwares, platforms, anything that does something, human psychology and working with great people who share same brain cells🌟🚀.
 </h3>
 
 ###
+### What I work on
 
-<p align="left">- 🔭 I’m working on GenAI and Automation using GenAI<br>- 📚 I'm currently learning advanced AI modules<br>- ⚡ I'm looking for full-time job opportunity</p>
+- 🧠 AI Agents: single-agent, multi-agent, Google ADK-agents
+- 🔧 Automation workflows: how to structure agents, integrate APIs, third-part LLMs, SQL/NoSQL dbs, handle tools, logs, eval, planning
+- 🗂️ RAG setups: simple chains, agentic RAG, hybrid RAG search
+- 🗂️ Chatbots: document based, knowledge base, Dialogflow-CX
 
 ###
 
