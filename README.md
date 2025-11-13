@@ -15,8 +15,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=350&height=70&lines=Welcome+to+my+GitHub+Profile" alt="Welcome to my GitHub Profile." />
 </p>
 
-## 👨🏻‍🎓 About Me
-
 ###
 
 <h3 align='left'>
@@ -33,6 +31,11 @@
 - ⚙️ Backend Development – Java/Spring Boot APIs, caching, microservices, AWS/GCP
 
 ###
+
+## 👨🏻‍🎓 About Me
+- 🎯 Engineer & Researcher having experience with agentic systems, automation pipelines, machine learning and intelligent backends systems.
+  
+- 📚 Co-author of research published with Springer, Wiley-Scrivener, and Computational Intelligence, covering topics in federated learning, fuzzy logic, and ensemble ML for healthcare AI.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit01-10&label=Profile%20views&color=0e75b6&style=flat" alt="mohit01-10" /> </p>
 
@@ -84,11 +87,10 @@ using namespace std;
 
 class Mohit {
 private:
-    string Moto = "Coding my world, One line at a time!";
 
-    vector<string> Programming_Skills = { "C", "C++", "Python", "DSA", "ML" };
+    vector<string> Programming_Skills = { "C", "C++", "Python", "Java", "DSA", "ML" };
 
-    vector<string> WebTech/Frameworks = { "HTML/CSS", "JavaScript", "Reactjs", "Django", "Bootstrap"};
+    vector<string> WebTech/Frameworks = { "HTML/CSS", "JavaScript", "Reactjs", "Spring Boot", "FastAPI"};
 
 public:
     Mohit(string major) {
