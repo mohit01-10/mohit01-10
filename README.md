@@ -18,7 +18,7 @@
 ###
 
 <h3 align='left'>
- Engineer, interested in building softwares, platforms, anything that does something, human psychology and working with great people who share same brain cells🌟🚀.
+ Engineer, interested in building softwares, platforms, anything that does something, human psychology and working with great people who share same brain cells.
 </h3>
 
 ###
@@ -32,11 +32,13 @@
 
 ###
 
-## 👨🏻‍🎓 About Me
-- 🎯 Engineer & Researcher having experience with agentic systems, automation pipelines, machine learning and intelligent backends systems.
+## 👨About Me
+- 🎯 Engineer & Researcher having cumulative experience of >1 years with agentic systems, automation pipelines, machine learning and intelligent backends systems.
   
 - 📚 Co-author of research published with Springer, Wiley-Scrivener, and Computational Intelligence, covering topics in federated learning, fuzzy logic, and ensemble ML for healthcare AI.
 
+- 👨🏻‍🎓 Google Scholar: [Mohit](https://scholar.google.co.in/citations?hl=en&user=6Zpyp_cAAAAJ)
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit01-10&label=Profile%20views&color=0e75b6&style=flat" alt="mohit01-10" /> </p>
 
 <p  align="center">
@@ -88,9 +90,11 @@ using namespace std;
 class Mohit {
 private:
 
-    vector<string> Programming_Skills = { "C", "C++", "Python", "Java", "DSA", "ML" };
+    vector<string> Programming_Skills = { "C", "C++", "Python", "Java", "DSA"};
 
     vector<string> WebTech/Frameworks = { "HTML/CSS", "JavaScript", "Reactjs", "Spring Boot", "FastAPI"};
+
+    vector<string> Databases = { "Postgres", "MongoDB", "Qdrant"};
 
 public:
     Mohit(string major) {
@@ -98,7 +102,7 @@ public:
     }
 
     string GetDegree() {
-        return "B.Tech in Computer Science Engineering";
+        return "BTech in Computer Science and Engineering";
     }
 
 };
